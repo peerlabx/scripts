@@ -1,4 +1,4 @@
-# Lock screen on auto login
+# Ubuntu 24.04 lock screen on auto login
 # Start script below using Ubuntu "Startup Applications"
 # Use following command: 
 # /bin/bash -c "sleep 10 && /home/user/lock.sh"
